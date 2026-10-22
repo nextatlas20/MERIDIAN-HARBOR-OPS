@@ -1,0 +1,33 @@
+snapshot_date = "2094-11-20"
+ready_asset_count = 3
+total_load_kg = 2300
+
+[[asset]]
+sequence = 1
+asset_id = "EQ-ALFA"
+label = "Harbor crane"
+berth = "East"
+load_kg = 1200
+certificate_id = "CT-101"
+inspected_on = "2094-11-19"
+rated_kg = 1300
+
+[[asset]]
+sequence = 2
+asset_id = "EQ-FLNT"
+label = "Mooring winch"
+berth = "East"
+load_kg = 650
+certificate_id = "CT-106"
+inspected_on = "2094-11-20"
+rated_kg = 680
+
+[[asset]]
+sequence = 3
+asset_id = "EQ-BRAV"
+label = "Dock cart"
+berth = "West"
+load_kg = 450
+certificate_id = "CT-102"
+inspected_on = "2094-11-20"
+rated_kg = 450
