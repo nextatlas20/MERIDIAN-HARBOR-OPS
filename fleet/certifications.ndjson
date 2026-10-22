@@ -1,0 +1,10 @@
+{"certificate_id":"CT-101","asset_id":"EQ-ALFA","inspected_on":"2094-11-19","rated_kg":1300,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-102","asset_id":"EQ-BRAV","inspected_on":"2094-11-20","rated_kg":450,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-103","asset_id":"EQ-CYGN","inspected_on":"2094-11-18","rated_kg":650,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-104","asset_id":"EQ-CYGN","inspected_on":"2094-11-20","rated_kg":750,"outcome":"restricted","revision":1}
+{"certificate_id":"CT-105","asset_id":"EQ-ECHO","inspected_on":"2094-11-21","rated_kg":400,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-106","asset_id":"EQ-FLNT","inspected_on":"2094-11-20","rated_kg":700,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-106","asset_id":"EQ-FLNT","inspected_on":"2094-11-20","rated_kg":680,"outcome":"cleared","revision":2}
+{"certificate_id":"CT-107","asset_id":"EQ-DRUM","inspected_on":"2094-11-20","rated_kg":1000,"outcome":"cleared","revision":1}
+{"certificate_id":"CT-108","asset_id":"EQ-ALFA","inspected_on":"2094-02-30","rated_kg":1300,"outcome":"cleared","revision":1}
+[]

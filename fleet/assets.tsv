@@ -1,0 +1,11 @@
+asset_id	label	berth	load_kg	status	revision
+EQ-ALFA	Harbor crane	East	1200	active	1
+EQ-BRAV	Dock cart	West	450	active	1
+EQ-CYGN	Pump tender	East	700	active	1
+EQ-CYGN	Pump tender	East	700	active	2
+EQ-DRUM	Lift frame	South	900	retired	1
+EQ-ECHO	Safety skiff	West	300	active	1
+EQ-FLNT	Mooring winch	East	650	active	1
+EQ-FLNT	Mooring winch	East	650	active	2
+broken	line
+
